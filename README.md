@@ -3,7 +3,8 @@
 
 ###
 
-<p align="left">I'm a MERN Stack Web Developer with a deep interest in Web3, crypto, and automation tools. I enjoy turning ideas into real-world apps that are fast, scalable, and user-friendly.<br><br>💻 Tech Stack: MongoDB, Express.js, React, Node.js<br><br>🔥 Passionate about: Web3, Crypto, AI<br><br>🚀 Currently exploring: Advanced backend systems<br><br>🌐 Portfolio: mahabur.xyz<br><br>Let's collaborate and create something impactful!</p>
+<p align="left">I'm a MERN Stack Web Developer with a deep interest in Web3, crypto, and automation tools. I enjoy turning ideas into real-world apps that are fast, scalable, and user-friendly.<br><br>💻 Tech Stack: MongoDB, Express.js, React, Node.js<br><br>🔥 Passionate about: Web3, Crypto, AI<br><br>🚀 Currently exploring: Advanced backend systems<br><br>🔗 [Portfolio](https://mahabur.xyz)
+<br><br>Let's collaborate and create something impactful!</p>
 
 ###
 
