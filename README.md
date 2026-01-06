@@ -21,8 +21,7 @@ I'm a **MERN Stack Web Developer** with a strong passion for **Web3, Crypto, and
 
 ### 🚀 Currently Exploring
 - Advanced Backend Architecture  
-- Express.js Deep Dive  
-- MongoDB Performance Optimization
+- Next.js Deep Dive  
 
 ---
 
