@@ -42,7 +42,7 @@ I can spend hours debugging and still say:
 
 ### 📫 Connect with me:
 
-[![Website](https://img.shields.io/badge/Website-mahabur.xyz-blue?style=flat&logo=google-chrome)](https://mahabur.xyz)
+[![Website](https://img.shields.io/badge/Website-mahabur.site-blue?style=flat&logo=google-chrome)](https://mahabur.site)
 [![Twitter](https://img.shields.io/badge/Twitter-@themahabur-1DA1F2?style=flat&logo=twitter)](https://twitter.com/soikot21)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-themahabur-blue?style=flat&logo=linkedin)](https://linkedin.com/in/themahabur)
 [![Email](https://img.shields.io/badge/Email-themahabur@gmail.com-red?style=flat&logo=gmail)](mailto:themahabur@gmail.com)
