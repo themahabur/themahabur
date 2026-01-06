@@ -6,7 +6,7 @@ I'm a **MERN Stack Web Developer** with a strong passion for **Web3, Crypto, and
 ---
 
 ### 💻 Tech Stack
-- **Frontend:** React.js, Tailwind CSS, TypeScript
+- **Frontend:** Next.js, React.js, Tailwind CSS, TypeScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 
